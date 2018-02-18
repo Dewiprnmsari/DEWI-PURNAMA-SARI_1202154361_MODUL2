@@ -56,7 +56,7 @@ public class Menu extends AppCompatActivity {
             priceses.add(22000);
             priceses.add(10000);
 
-            //memanggil fot yang ada pada drawable
+            //memanggil foto yang ada pada drawable
             photos.add(R.drawable.nasigoreng);
             photos.add(R.drawable.creamsoup);
             photos.add(R.drawable.macncheese);

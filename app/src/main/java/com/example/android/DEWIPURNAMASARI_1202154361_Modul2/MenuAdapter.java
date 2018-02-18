@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.LinkedList;
 
 /**
- * Created by Taufan Fadhilah on 2/16/2018.
+ * Created by ASUS on 2/18/2018.
  */
 
 public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MenuViewHolder>{
