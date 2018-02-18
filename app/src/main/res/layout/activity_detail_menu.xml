@@ -15,7 +15,7 @@
         android:textSize="@dimen/text_size_head"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/margin_top_logo"
-        android:text="Nasi Wagyu"/>
+        android:text="Nasi Goreng"/>
     <ImageView
         android:id="@+id/iv_detailPhoto"
         android:layout_width="200sp"
@@ -29,7 +29,7 @@
         android:layout_gravity="center_horizontal"
         android:textStyle="bold"
         android:layout_marginTop="20dp"
-        android:text="Rp. 30.000"/>
+        android:text="Rp. 12.000"/>
 
     <TextView
         android:layout_width="wrap_content"
